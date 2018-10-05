@@ -1,5 +1,5 @@
 # 全日本学生合気道連盟
-![renmei_photo](renmei.jpg)
+![renmei_photo](renmei.png)
 
 # メニュー
 [活動記録](README.md#activity)
