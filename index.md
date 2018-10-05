@@ -2,14 +2,14 @@
 ![renmei_photo](renmei.png)
 
 # メニュー
-[活動記録](README.md#activity)
-[加盟校](README.md#university)
+- [活動記録](index.md#activity)
+- [加盟校](index.md#university)
 
-<a name='actitvity'></a>
+<a name='actitvity'> </a>
 # 活動記録
 2018年10月6日 武道館演武大会
 
-<a name='actitvity'></a>
+<a name='activity'> </a>
 # 加盟校
 - 大阪商業大学
 - 関西福祉科学大学
